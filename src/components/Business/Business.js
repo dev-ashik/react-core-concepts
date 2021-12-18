@@ -23,7 +23,7 @@ const Business = () => {
 const OfferCard = () => {
     return (
         <div>
-             
+             <div></div>
         </div>
     );
 };
