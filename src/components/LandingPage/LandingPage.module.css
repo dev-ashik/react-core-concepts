@@ -1,0 +1,43 @@
+.contactSection {
+    /* background-color: linear-gradient(262.82deg, #F0FBFF 5.66%, #DBF6FF 105.63%); */
+    background-color: gray;
+    /* opacity: 0.5; */
+    padding: 30px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    padding: 30px;
+    /* width: 354.28px; */
+    /* height: 216.45px; */
+    width: 250px;
+    height: 150px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    box-shadow: -18px 19px 35px rgba(0, 0, 0, 0.05);
+}
+
+.cardName {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: 20%;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 24px;
+    color: #484848;
+}
+
+.registerButton {
+    color: white;
+    background: #004682;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 0px 4px 10px 3px rgba(0, 70, 130, 0.1);
+}

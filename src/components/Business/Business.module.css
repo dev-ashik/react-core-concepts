@@ -1,0 +1,44 @@
+.BusinessTop {
+    height: 500px;
+    background-image: url("../../pictures/driveCar.png");
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #F0FBFF;
+    position: relative;
+}
+
+.findMoreLogistic {
+    width: 510px;
+    /* height: 250px; */
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    /* margin-top: 20px; */
+    position: absolute;
+    top: 31%;
+    left: 16%;
+    margin: -35px 0 0 -35px;
+    padding: 20px;
+}
+
+.title{
+    margin: 0;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 24px;
+    color: #484848;
+}
+.companyButton {
+    color: white;
+    background: #004682;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0px 4px 10px 3px rgba(0, 70, 130, 0.1);
+}
